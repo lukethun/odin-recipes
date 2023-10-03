@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(234, 236, 240);
+}
+
+.header {
+    color: rgb(45, 119, 230);
+}
+
+.link{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h2,
+h3 {
+    color: rgb(56, 125, 230);
+    
+}
+
+li {
+    font-size: 20px;
+}
+
+p {
+    font-size: 22px;
+}
